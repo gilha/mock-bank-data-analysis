@@ -1,1 +1,9 @@
-# insait-data-analysis
+## Insait Data Analysis Test - Gil Harari - [LinkedIn](https://www.linkedin.com/in/gilharari/); [GitHub](https://github.com/gilha); [Mail](mailto:gil1996@gmail.com)
+
+Connection Information for accessing the DB:
+
+* Endpoint/host: `insaitdb.cccnbalmnxxd.eu-north-1.rds.amazonaws.com`
+* port: `5432`
+* DB name: `insaitdb`
+* username: `postgres`
+* password: `postgres`
