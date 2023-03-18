@@ -3,7 +3,14 @@
 
 ---
 
-#### Connection Information for accessing the DB:
+#### Tasks I performed:
+1. Created a dataset that mocks a banks database using Python and SQL (over PostgreSQL) (source code = `mock_bank_db_generation_and_deployment.ipynb`)
+2. Deployed the database on the cloud (via an Amazon RDS instance, connection information below)
+3. Used Power BI to create a dashboard (file = `mock_bank_dashboard.pbix`)
+
+---
+
+#### Connection Information for accessing the database (of type `PostgreSQL 15.2`):
 * Endpoint/host: `insaitdb.cccnbalmnxxd.eu-north-1.rds.amazonaws.com`
 * port: `5432`
 * DB name: `insaitdb`
@@ -54,6 +61,7 @@
 
 #### And the following view:
 `financial_status_on_loan_start`:
+> "Financial status of all clients that took loans, in the day of the loan"
 
 | Column Name          | Data Type     | Description                                                 |
 |----------------------|---------------|-------------------------------------------------------------|
@@ -67,4 +75,11 @@
 | cash_spending        | DECIMAL(20,3) | Total cash spending by the customer on the given date        |
 | loan_size            | DECIMAL(20,3) | Size of the loan taken by the customer                       |
 
+---
 
+#### I welcome any feedback or suggestions you may have, and I'm happy to make any necessary adjustments to ensure the project meets your vision and goals; feel free to contact me with any questions, concerns, or ideas you may have.
+
+I enjoyed this task immensly, and I'm excited about the opportunity to bring my passion and skills to Insait.
+Thank you for considering my application, and I look forward to discussing my qualifications in more detail.
+
+   Gil;
