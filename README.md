@@ -1,4 +1,5 @@
-## Insait Data Analysis Test - Gil Harari - [LinkedIn](https://www.linkedin.com/in/gilharari/); [GitHub](https://github.com/gilha); [Mail](mailto:gil1996@gmail.com)
+## Insait Data Analysis Test
+### Gil Harari - [LinkedIn](https://www.linkedin.com/in/gilharari/); [GitHub](https://github.com/gilha); [Mail](mailto:gil1996@gmail.com); Phone: +972-52-744-1568
 
 Connection Information for accessing the DB:
 
