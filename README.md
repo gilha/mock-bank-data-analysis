@@ -1,4 +1,4 @@
-# Insait Data Analysis Test
+# Mock Bank Data Analysis
 ## Gil Harari - [LinkedIn](https://www.linkedin.com/in/gilharari/); [GitHub](https://github.com/gilha); [Mail](mailto:gil1996@gmail.com); Phone: +972-52-744-1568
 
 ---
@@ -75,11 +75,3 @@
 | cash_spending        | DECIMAL(20,3) | Total cash spending by the customer on the given date        |
 | loan_size            | DECIMAL(20,3) | Size of the loan taken by the customer                       |
 
----
-
-#### I welcome any feedback or suggestions you may have, and I'm happy to make any necessary adjustments to ensure the project meets your vision and goals; feel free to contact me with any questions, concerns, or ideas you may have.
-
-I enjoyed this task immensely, and I'm excited about the opportunity to bring my passion and skills to Insait.
-Thank you for considering my application, and I look forward to discussing my qualifications in more detail.
-
-   Gil;
