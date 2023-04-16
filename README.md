@@ -11,9 +11,9 @@
 ---
 
 #### Connection Information for accessing the database (of type `PostgreSQL 15.2`):
-* Endpoint/host: `insaitdb.cccnbalmnxxd.eu-north-1.rds.amazonaws.com`
+* Endpoint/host: `mockbankdb.cccnbalmnxxd.eu-north-1.rds.amazonaws.com`
 * port: `5432`
-* DB name: `insaitdb`
+* DB name: `mockbankdb`
 * username: `postgres`
 * password: `postgres`
 
